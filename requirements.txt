@@ -1,3 +1,4 @@
-tensorflow==2.9.1
-keras==2.9.0
-matplotlib==3.6.2
+tensorflow
+keras
+matplotlib
+jupyter
